@@ -105,8 +105,3 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
-# data files
-*.csv
-*.tsv
-*.json
